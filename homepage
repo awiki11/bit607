@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Haukai Restaurant</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+            <div class="scrollmenu">
+            <a href="homepage.html">Home</a></li>
+            <a href="about.html">About</a></li>
+            <a href="restaurantbookingpage.html">Make a reservation</a></li>
+            <a href="menu.html">Our Menu</a></li>
+            <a href="services.html">Services</a></li>
+            <a href="contact.html">Contact us</a></li>
+            <a href="hours.html">Hours</a></li>
+        </div>
+
+    <main>
+        <h1 id="home">Welcome to Haukai Restaurant</h1>
+        <img src="https://images.unsplash.com/photo-1528735000313-039ec3a473b0?ixlib=rb-4.0.3&dl=mathew-schwartz-GjzJFMnJZYg-unsplash.jpg&q=80&fm=jpg&crop=entropy&cs=tinysrgb" alt="homepage" width="400" height="400"> 
+    
+        
+        
+    </main>
+    <footer>
+        <p>Copyright © 2023 Haukai</p>
+    </footer>
+</body>
+</html>
